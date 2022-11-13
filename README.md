@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amuadib
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning NuxtJs
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me a.muadib@gmail.com
 
 <!---
